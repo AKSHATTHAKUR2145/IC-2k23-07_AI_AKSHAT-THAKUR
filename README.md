@@ -1,0 +1,2 @@
+# IC-2k23-07_AI_AKSHAT-THAKUR
+AI Lab problems 
